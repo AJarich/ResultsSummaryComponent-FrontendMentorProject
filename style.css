@@ -16,7 +16,7 @@ p {
 }
 
 .main-container {
-  width: 50%;
+  width: 45%;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -30,7 +30,7 @@ p {
 }
 
 .left-container {
-  background-color: hsl(241, 81%, 54%);
+  background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
   width: 50%;
   border-radius: 15px;
 }
