@@ -11,6 +11,9 @@ for both desktop and mobile. The button should change color when hovered over, t
 
 ### Links
 
+-- [Website URL](http://andreajarich.x10host.com/HTMLandCSS/results-summary-component-main/)
+-- [GitHub URL](https://github.com/AJarich/ResultsSummaryComponent-FrontendMentorProject)
+
 ## My Process
 
 ### Built With
