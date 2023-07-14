@@ -20,9 +20,13 @@ for both desktop and mobile. The button should change color when hovered over, t
 ### Built With
 
 -- HTML5
+
 -- CSS3
+
 -- Flexbox
+
 -- CSS Grid
+
 -- Google Fonts
 
 ### What I Learned
@@ -40,12 +44,16 @@ In the future, I would want to try to use React.js to create this, especially wi
 ### Helpful Links
 
 -- [Resource 1](https://youtu.be/S8HgWe3_VYg) - This can help figure out how to center div in middle of the screen
+
 -- [Resource 2](https://cssgradient.io/) - Use this to help create linear gradients
+
 -- [Resource 3](https://www.youtube.com/watch?v=8SIPhWKPmHM) - Videos like this helped make it so that the icon perfectly aligned vertically with the text
+
 -- [Resource 4](https://fonts.google.com/) - This helped me to use different fonts other than the default web-safe fonts you get.
 
 
 ## Author
 
 -- Website: http://andreajarich.x10host.com/wp
+
 -- Github Profile: https://github.com/AJarich
